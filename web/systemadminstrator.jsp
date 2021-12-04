@@ -43,9 +43,6 @@
   .total{
     color: white;
   }
-  .remove{
-      text-decoration: none;
-  }
 
 </style>
         
@@ -153,9 +150,7 @@
              </h1>
              </div>
                        </div>
-                                    <a href="ShowVaccines.jsp" class="remove" 
-                                       style="text-decoration:none;">
-                                                                  <div class="mycard">
+                                                       <div class="mycard">
                             <div class='newDiv'>
              <h5 class='total'>Total Vaccine Types</h5>
              </div>
@@ -170,9 +165,6 @@
              </h1>
              </div>
                        </div>
-                                           
-                                    </a>
-                             
                                     
                                     
                                     
@@ -181,10 +173,7 @@
                                 <!<!-- comment -->
                                 
                                 <div class="containerCard">
-                                    <a href="ShowVaccines.jsp" class="remove" 
-                                       style="text-decoration:none;"
-                                       
-                                       >
+                                    <a href="ShowVaccines.jsp" class="remove">
                                                                   <div class="mycard">
                             <div class='newDiv'>
              <h5 class='total'>Total Vaccine Dozens</h5>
